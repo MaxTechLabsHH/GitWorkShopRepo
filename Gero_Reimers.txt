@@ -1,1 +1,1 @@
-ECHO ist eingeschaltet (ON).
+Hello, this is Gero Reimers.
